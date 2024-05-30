@@ -20,7 +20,7 @@
 
 💡 &nbsp;I like to explore new technologies. <br>
 🌱 &nbsp;I'm on track for Experiencing new things.\
-💬 &nbsp;Learning new things and adapt them.\
+💬 &nbsp;Learning new things and adapt them.
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
